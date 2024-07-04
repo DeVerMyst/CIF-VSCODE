@@ -1,2 +1,6 @@
 /readme.md
 /tmp.py
+.DS_STORE
+*.jpg
+img
+*.html
